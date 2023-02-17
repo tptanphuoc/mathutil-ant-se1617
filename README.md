@@ -6,4 +6,4 @@
 * A demonstration of applying CI - Continuost Integration process based on GitHub Actions and Ant build tool
 
 ### Connect me via huynhphuoc2468@gmail.com
-#### Copyright &#79; 2023 tptanphuoc
+#### Copyright &#169; 2023 tptanphuoc
